@@ -2,6 +2,7 @@
 
 ### 1. Objetivo
 Fazer um servidor Java que conecte usuários em um chat, utilizando a classe Socket com uma mesma porta e o endereço ip localhost.
+![chat png](https://github.com/JoaoSantos6/Multiple-Clients-Chat-on-Java-with-Socket/assets/78502928/a653190a-13d0-42c2-9eee-c3f697cbbb97)
 
 ### 2. Tecnologias utilizadas
 - Java 17
