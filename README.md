@@ -1,7 +1,5 @@
 ## Multiple Clients Chat on Java with Socket
 
-[[_TOC_]]
-
 ### 1. Objetivo
 Fazer um servidor Java que conecte usuários em um chat, utilizando a classe Socket com uma mesma porta e o endereço ip localhost.
 
